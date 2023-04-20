@@ -15,9 +15,9 @@ Hello *Git* My name is **Dimitrios** and i m new here ..
 
 >![black dog](https://images.unsplash.com/photo-1670169141450-da63fae030aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80) 
 
-[ x ] Check  
-[ ] The  
-[ ] List 
+- [x] Check  
+- [ ] The  
+- [ ] List 
  
  ## Some basi Git Commans Are:  
  ```
